@@ -76,7 +76,7 @@ const FR = {
   "about.edu1": "EPI Sousse — cycle ingénieur en génie logiciel, 2024–2027",
   "about.edu2": "ISIMM — cycle préparatoire intégré, 2022–2024",
   "about.certs": "Certifications",
-  "about.cert1": "ETS, novembre 2026",
+  "about.cert1": "ETS, octobre 2026",
   "about.cert2": "Microsoft, juin 2026",
   "about.cert3": "IBM, juillet 2025",
   "about.cert4": "Amazon Web Services, mai 2025",
