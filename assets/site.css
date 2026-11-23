@@ -133,6 +133,7 @@ h1, h2, h3 { font-family: Manrope, Inter, system-ui, sans-serif; font-weight: 80
 .about p { margin: 0; color: var(--ink-2); }
 .about .plain { margin: 0; padding: 0; list-style: none; display: grid; gap: 12px; color: var(--ink-2); font-size: 15px; line-height: 1.45; }
 .about .plain b { color: var(--ink); font-weight: 600; }
+.about .verify { white-space: nowrap; }
 .foot { border-top: 1px solid var(--line); padding: 24px 0 40px; font-size: 13px; color: var(--ink-3); display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
 
 /* tablets and phones: no moving cards, every project shown in full */
